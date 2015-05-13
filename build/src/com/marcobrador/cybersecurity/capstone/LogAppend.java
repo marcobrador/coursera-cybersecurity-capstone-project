@@ -1,8 +1,8 @@
 package com.marcobrador.cybersecurity.capstone;
 
-public class Main {
+public class LogAppend {
 
     public static void main(String[] args) {
-	// write your code here
+        System.out.println("Hello from " + LogAppend.class.getSimpleName());
     }
 }
